@@ -4,5 +4,7 @@ An implementation of particle swarm optimization in order to find the global min
 See PSOReport.pdf for complete documentation.
 
 To compile and run, simply use:
+
 javac Main.java
+
 java Main
